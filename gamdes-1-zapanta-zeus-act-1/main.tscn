@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dolad4e1cjpba"]
+
+[node name="Main" type="Node2D" unique_id=1479727922]
+
+[node name="Player" type="Sprite2D" parent="." unique_id=419373408]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=1791026020]
+
+[node name="ScoreLabel" type="Label" parent="." unique_id=1039902165]
+offset_right = 40.0
+offset_bottom = 23.0
